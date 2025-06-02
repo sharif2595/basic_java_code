@@ -13,7 +13,7 @@ class one
 
 class two extends one
 {
-	void login()
+	public  void  login()
 	{
 		//super.login();
 		System.out.println("login via a google account");
